@@ -1,12 +1,13 @@
 # Site settings
 title: Hanz Tech
-email: admin@hanztechnology.com
-description: >
+email: adminAThanztechnology.com
+description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 
-twitter_username:
+youtube_username: UCmehYo0RhkPD58ASRXDbt5A
 github_username: Hanz-Tech
+tindie_usernae: hanztech
 
 # Build settings
 markdown: kramdown
